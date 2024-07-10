@@ -10,13 +10,15 @@
 			"LoadingPhase": "Default"
 		}
 	],
+	
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
+			"Enabled": false,
 			"TargetAllowList": [
 				"Editor"
 			]
 		}
 	]
+	
 }

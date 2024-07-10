@@ -30,7 +30,7 @@
 					"mayor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -47,7 +47,7 @@
 					"mayor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -67,7 +67,7 @@
 					"mayor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -84,7 +84,7 @@
 					"mayor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -101,7 +101,7 @@
 					"mayor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -121,7 +121,7 @@
 					"mayor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -138,7 +138,7 @@
 					"mayor",
 					"Win64",
 					"Development",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -155,7 +155,7 @@
 					"mayor",
 					"Win64",
 					"Development",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -175,7 +175,7 @@
 					"mayor",
 					"Win64",
 					"Development",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -192,7 +192,7 @@
 					"mayor",
 					"Win64",
 					"Test",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -209,7 +209,7 @@
 					"mayor",
 					"Win64",
 					"Test",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -229,7 +229,7 @@
 					"mayor",
 					"Win64",
 					"Test",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -246,7 +246,7 @@
 					"mayor",
 					"Win64",
 					"Shipping",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -263,7 +263,7 @@
 					"mayor",
 					"Win64",
 					"Shipping",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -283,7 +283,7 @@
 					"mayor",
 					"Win64",
 					"Shipping",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -300,7 +300,7 @@
 					"mayorEditor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -317,7 +317,7 @@
 					"mayorEditor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -337,7 +337,7 @@
 					"mayorEditor",
 					"Win64",
 					"Debug",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -354,7 +354,7 @@
 					"mayorEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -371,7 +371,7 @@
 					"mayorEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -391,7 +391,7 @@
 					"mayorEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -408,7 +408,7 @@
 					"mayorEditor",
 					"Win64",
 					"Development",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -425,7 +425,7 @@
 					"mayorEditor",
 					"Win64",
 					"Development",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -445,7 +445,7 @@
 					"mayorEditor",
 					"Win64",
 					"Development",
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -462,7 +462,7 @@
 			{
 				"name": "Launch mayor (Debug)",
 				"request": "launch",
-				"program": "C:\\Unreal Engine Projects\\mayor\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "mayor Win64 Debug Build",
 				"args": [
 				],
@@ -478,7 +478,7 @@
 			{
 				"name": "Launch mayor (DebugGame)",
 				"request": "launch",
-				"program": "C:\\Unreal Engine Projects\\mayor\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "mayor Win64 DebugGame Build",
 				"args": [
 				],
@@ -494,7 +494,7 @@
 			{
 				"name": "Launch mayor (Development)",
 				"request": "launch",
-				"program": "C:\\Unreal Engine Projects\\mayor\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "mayor Win64 Development Build",
 				"args": [
 				],
@@ -510,7 +510,7 @@
 			{
 				"name": "Launch mayor (Test)",
 				"request": "launch",
-				"program": "C:\\Unreal Engine Projects\\mayor\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "mayor Win64 Test Build",
 				"args": [
 				],
@@ -526,7 +526,7 @@
 			{
 				"name": "Launch mayor (Shipping)",
 				"request": "launch",
-				"program": "C:\\Unreal Engine Projects\\mayor\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "mayor Win64 Shipping Build",
 				"args": [
 				],
@@ -545,7 +545,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "mayorEditor Win64 Debug Build",
 				"args": [
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject"
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.4",
 				"stopAtEntry": false,
@@ -562,7 +562,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "mayorEditor Win64 DebugGame Build",
 				"args": [
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject"
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.4",
 				"stopAtEntry": false,
@@ -579,7 +579,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "mayorEditor Win64 Development Build",
 				"args": [
-					"C:\\Unreal Engine Projects\\mayor\\mayor.uproject"
+					"C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.4",
 				"stopAtEntry": false,
@@ -599,7 +599,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=C:\\Unreal Engine Projects\\mayor\\mayor.uproject",
+					"-project=C:\\Users\\atado\\Documents\\GitHub\\mayor\\mayor.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"

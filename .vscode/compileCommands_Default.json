@@ -1,121 +1,121 @@
 [
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\TP_PickUpComponent.cpp",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\TP_PickUpComponent.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\TP_PickUpComponent.h",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\TP_PickUpComponent.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\TP_WeaponComponent.cpp",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\TP_WeaponComponent.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\TP_WeaponComponent.h",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\TP_WeaponComponent.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayor.Build.cs",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayor.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayor.cpp",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayor.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayor.h",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayor.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayorCharacter.cpp",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayorCharacter.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayorCharacter.h",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayorCharacter.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayorGameMode.cpp",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayorGameMode.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayorGameMode.h",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayorGameMode.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayorPlayerController.cpp",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayorPlayerController.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayorPlayerController.h",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayorPlayerController.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayorProjectile.cpp",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayorProjectile.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal Engine Projects\\mayor\\Source\\mayor\\mayorProjectile.h",
+		"file": "C:\\Users\\atado\\Documents\\GitHub\\mayor\\Source\\mayor\\mayorProjectile.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal Engine Projects\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
+			"@C:\\Users\\atado\\Documents\\GitHub\\mayor\\.vscode\\compileCommands_Default\\mayor.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	}
